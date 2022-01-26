@@ -1,6 +1,11 @@
 # AndroBomb
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5907924.svg)](https://doi.org/10.5281/zenodo.5907924)
+
 In this repository, we host AndroBomb, a tool to automatically infect Android apps with logic bombs.
+
+The tool is not publicly available to not encourage malware development.
+AndroBomb is only available to authenticated and identified researchers who can ask for access at: https://doi.org/10.5281/zenodo.5907924
 
 **DISCLAIMER:** This tool is for research purposes only. The authors are not responsible for any misuse of this tool or any malicious intention on the part of a user.
 
@@ -30,7 +35,7 @@ Then, try to rebuild.
 ### Usage
 
 <pre>
-java -jar AndroBomb/target/AndroBomb-0.1-jar-with-dependencies.jar <i>options</i>
+java -jar AndroBomb/target/AndroBomb-1.0-jar-with-dependencies.jar <i>options</i>
 </pre>
 
 Options:
