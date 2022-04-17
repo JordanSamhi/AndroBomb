@@ -2,6 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5907924.svg)](https://doi.org/10.5281/zenodo.5907924)
 
+<p align="center">
+  <img src="https://github.com/JordanSamhi/AndroBomb/blob/master/images/androbomb.png" width="200" alt="AndroBomb">
+</p>
+
 In this repository, we host AndroBomb, a tool to automatically infect Android apps with logic bombs.
 
 The tool is not publicly available to not encourage malware development.
