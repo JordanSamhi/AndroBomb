@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JordanSamhi/AndroBomb/blob/master/images/androbomb_logo.png" width="200" alt="AndroBomb">
+  <img src="https://github.com/JordanSamhi/AndroBomb/blob/master/images/androbomb_logo.png" width="1200px" alt="AndroBomb">
 </p>
 
 # AndroBomb
